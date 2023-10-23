@@ -99,6 +99,6 @@ learning the language.
 introduction
 
 
-Lorem ipsum dolor sit amet. 
+
 
 
