@@ -1,4 +1,6 @@
 # Application Development Assignment A
 -enviado por usuario u107245, Arturo Ayala Rincon
 
-![Alt text](image.png)
+# FOTO
+imagen aerea tomada por la NASA, para fines comerciales
+![Alt text](image-1.png)
